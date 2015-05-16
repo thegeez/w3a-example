@@ -2,6 +2,8 @@
 
 Web application in Pedestal using [w3a]
 
+More information on the blogpost: http://thegeez.net/2015/05/16/w3a_web_application_pedestal.html
+
 [w3a]: https://github.com/thegeez/w3a
 
 ### Source
