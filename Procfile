@@ -1,0 +1,1 @@
+web: java $JVM_OPTS -cp target/w3a-example-prod-standalone.jar w3a.example.main $PORT $DATABASE_URL
