@@ -14,7 +14,7 @@
                  [org.webjars/bootstrap "3.3.4"]
                  [org.webjars/jquery "1.11.1"]
 
-                 [net.thegeez/w3a "0.0.2"]]
+                 [net.thegeez/w3a "0.0.3"]]
   :min-lein-version "2.0.0"
   :resource-paths ["config", "resources"]
   :profiles {:dev {:source-paths ["dev"]
